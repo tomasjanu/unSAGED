@@ -44,3 +44,4 @@ pnpm-lock.yaml
 .vscode/
 
 *.json
+/.env.local.example
